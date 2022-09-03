@@ -1,1 +1,1 @@
-s
+//This is how you leave comments in js

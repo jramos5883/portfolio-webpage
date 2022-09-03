@@ -1,1 +1,34 @@
-s
+/*This is how you leave comments in css*/
+* {
+    /*border: 2px solid red;*/
+    box-sizing: border-box;
+}
+/*Keeping above * to help visualize css*/
+/*Going to keep border-box in universal to play around with it*/
+body {
+    background-color:grey;
+} 
+
+.header {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.skills {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    text-align: start;
+}
+
+.icons {
+    height: auto;
+    width: 150px;
+}
+/*Working on a text/icon container*/
+.imageContainer {
+    display:inline-block
+    text-align
+}
